@@ -1,0 +1,22 @@
+{
+  "name": "gotx-bot",
+  "version": "1.0.0",
+  "description": "A comprehensive bot for running GOTX competitions in a Discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandavidmercado/gotx-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryandavidmercado/gotx-bot/issues"
+  },
+  "homepage": "https://github.com/ryandavidmercado/gotx-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
